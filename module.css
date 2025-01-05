@@ -1,0 +1,159 @@
+#container{
+    width: 2342px;
+    height: 1548px;
+    top: -741px;
+    left: -1149px;
+    gap: 0px;
+    opacity: 0px;
+    background-color:#1A1A1C;
+    
+}
+body{
+    background-color: #1A1A1C;
+}
+#inner-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2000px;
+    margin-top: 50px;
+
+}
+#text-container{
+width: 950px;
+height: 79px;
+top: -556px;
+left: -715px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+border: 2px solid #8E8E8E;
+margin-right:20px ;
+padding-left: 20px;
+}
+input{
+width: 95%;
+height: 95%;
+top: -531px;
+left: -684px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29.05px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background-color: #1A1A1C;
+color: #FFFFFF;
+border: none;
+}
+
+
+
+#button1-container{
+    width: 246px;
+    height: 79px;
+    top: -556px;
+    left: 296px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid #8E8E8E ; 
+   margin-right: 20px;
+   padding-left: 20px;
+   padding-top: 3px;
+}
+#button1{
+width: 100%;
+height: 58px;
+top: -531px;
+left: 320px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29.05px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+background-color: #1A1A1C;
+cursor: pointer;
+border: none;
+}
+
+
+#button2-container{
+    width: 246px;
+    height: 79px;
+    top: -556px;
+    left: 567px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid #8E8E8E  ; 
+    padding-top: 5px;    
+}
+#button2{
+    width: 219px;
+    height: 29px;
+    top: -531px;
+    left: 580px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+     background-color: #1A1A1C;  
+     cursor: pointer; 
+     border: none;
+     margin-top: 10px;
+     margin-left: 10px;
+}
+
+
+#data-container{
+width: 1651px;
+height: 1106px;
+top: -477px;
+left: -804px;
+gap: 0px;
+opacity: 0px;
+margin-left: 300px;
+}
+
+#image-data{
+    width: 30px;
+    
+}
+
+#image{
+    border-radius: 50%;
+    object-fit: contain;
+    width: 100%;
+}
+table td {
+    color: #FFFFFF;
+    padding: 60px;
+    font-size: large;
+}
+.table-data{
+    color: #FFFFFF;
+}
+table {
+    border-collapse: collapse;
+  }
+  tr {
+    border-bottom: 1px solid #FFFFFF;
+  }
+  
+
+
